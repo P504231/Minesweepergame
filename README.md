@@ -14,6 +14,4 @@ Users first! 🙏
 
 When users right click on a cell they see something like this
 ❗
-When users right click on a cell they see something like this
-alt text
 This way users can remember that they concluded there's a bomb in that cell and should not click it. If a user left-clicks on this flagged cell, normal flow should continue.
